@@ -1,0 +1,17 @@
+# Локальное окружение Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code и ОС
+.vs/
+.DS_Store
+Thumbs.db
+
+# Временные файлы и архивы
+*.log
+*.tmp
+*.zip
